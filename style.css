@@ -1,0 +1,10 @@
+:root {
+    --main-color: rgb(255, 174, 0);
+}
+
+a {
+    color: var(--main-color);
+}
+p {
+    color: var(--main-color);
+}
